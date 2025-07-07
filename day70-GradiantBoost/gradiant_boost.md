@@ -1,0 +1,1 @@
+Blog link : [All You Need to Know About Gradient Boosting (Part 2) – Classification](https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e/)
